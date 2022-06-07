@@ -17,7 +17,7 @@ GRUPO:
 
 ### Tela 1 : Tela Inicial (Fernanda) 
 
-![Tela inicial](telainicial.png)
+![Tela inicial](1617460.png)
 
 ### Tela 2 : Menu das frutas/verduras (Poliana)
 
