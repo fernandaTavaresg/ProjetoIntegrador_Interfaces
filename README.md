@@ -21,7 +21,7 @@ GRUPO:
 
 ### Tela 2 : Menu das frutas/verduras (Poliana)
 
-![Menu Frutas](menuf.jpg)
+![Menu Frutas](menu.jpg)
 
 ### Tela 3 : Menu de dados (Fernanda)
 
