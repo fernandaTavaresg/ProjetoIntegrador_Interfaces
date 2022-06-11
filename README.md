@@ -19,14 +19,13 @@ GRUPO:
 
 ![Tela inicial](telaInicial.jpg)
 
-
 ### Tela 2 : Menu das frutas/verduras (Poliana)
 
-![Menu Frutas](menufrutas.png)
+![Menu Frutas](menuf.jpg)
 
 ### Tela 3 : Menu de dados (Fernanda)
 
-![menu dados](menudados.png)
+![menu dados](dados.jpg)
 
 ### Tela 4 : Temperatura (Jonathan)
 
