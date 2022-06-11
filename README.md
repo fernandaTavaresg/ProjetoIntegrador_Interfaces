@@ -50,4 +50,4 @@ GRUPO:
 
 ### Tela 9 : Dicas (Poliana)
 
-![dicas](dica.jpg)
+![dicas](dicas.jpg)
