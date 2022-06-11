@@ -22,6 +22,7 @@ GRUPO:
 ### Tela 2: Login  e Cadastro (Fernanda)
 
 ![tela Login](login.jpg)
+
 ![tela Cadastro] (cadastro.jpg)
 
 ### Tela 3 : Menu das frutas/verduras (Poliana)
