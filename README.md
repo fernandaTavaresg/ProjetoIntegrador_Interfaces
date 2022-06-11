@@ -41,7 +41,7 @@ GRUPO:
 
 ### Tela 7 : Ambiente (Jonathan)
 
-![ambiente](ambiente.jpg)
+![ambiente](ambient.jpg)
 
 ### Tela 8 : Transporte (Poliana)
 
@@ -49,4 +49,4 @@ GRUPO:
 
 ### Tela 9 : Dicas (Poliana)
 
-![dicas](dicas.jpg)
+![dicas](dica.jpg)
