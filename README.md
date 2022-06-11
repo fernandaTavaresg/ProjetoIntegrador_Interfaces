@@ -19,34 +19,34 @@ GRUPO:
 
 ![Tela inicial](telaInicial.jpg)
 
-### Tela 2 : Menu das frutas/verduras (Poliana)
+### Tela 2: Login  e Cadastro (Fernanda)
+
+![tela Login](login.jpg)
+![tela Cadastro] (cadastro.jpg)
+
+### Tela 3 : Menu das frutas/verduras (Poliana)
 
 ![Menu Frutas](menu.jpg)
 
-### Tela 3 : Menu de dados (Fernanda)
+### Tela 4 : Menu de dados (Fernanda)
 
 ![menu dados](dados.jpg)
 
-### Tela 4 : Temperatura (Jonathan)
+### Tela 5 : Temperatura (Jonathan)
 
-![temperatura](temperatura.png)
+![temperatura](temperatura.jpg)
+### Tela 6 : Umidade (Jonathan)
 
-### Tela 5 : Umidade (Jonathan)
+![umidade](umidade.jpg)
 
-![umidade](umidade.png)
+### Tela 7 : Ambiente (Jonathan)
 
-### Tela 6 : Ambiente (Jonathan)
+![ambiente](ambiente.jpg)
 
-![ambiente](ambiente.png)
+### Tela 8 : Transporte (Poliana)
 
-### Tela 7 : Transporte (Poliana)
-
-![transporte](transporte.png)
-
-### Tela 8 : Vento (Fernanda)
-
-![vento](vento.png)
+![transporte](transporte.jpg)
 
 ### Tela 9 : Dicas (Poliana)
 
-![dicas](dicas.png)
+![dicas](dicas.jpg)
