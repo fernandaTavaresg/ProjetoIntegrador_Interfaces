@@ -23,7 +23,7 @@ GRUPO:
 
 ![tela Login](login.jpg)
 
-![tela Cadastro] (cadastro.jpg)
+![tela cadastro](cadastro.jpg)
 
 ### Tela 3 : Menu das frutas/verduras (Poliana)
 
