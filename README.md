@@ -38,7 +38,7 @@ GRUPO:
 ![temperatura](temperatura.jpg)
 
 ## Interface 6 : Umidade (Jonathan)
-
+### Importante nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
 ![umidade](umidade.jpg)
 
 ## Interface 7 : Ambiente (Jonathan)
