@@ -19,10 +19,8 @@ GRUPO:
 ![Tela inicial](telaInicial.jpg)
 
 ### Interface 2: Login e Cadastro 
-#### As Próximas Interfaces são: Cadastro, em que os usuários poderão registrar seus dados, deixando-os armazenados para os próximos acessos os dados que deverão ser preenchidos são Nome da Empresa ou Responsável, email para login e a senha de acesso do sistema, também possui a logomarca para identificação e o botão de confirmação. Já para a tela de realizar login, possui o preenchimento dos dados de email e senha, que haverá a verificação para o login, e o botão para avançar.
-![tela Login](login.jpg)
-
-![tela cadastro](cadastro.jpg)
+#### As Próximas Interfaces são: Cadastro, em que os usuários poderão registrar seus dados, deixando-os armazenados para os próximos acessos os dados, que deverão ser preenchidos são Nome da Empresa ou nome do Responsável pela empresa, email para login e a senha de acesso do sistema, também possui a logomarca para identificação e o botão para confirmação do formulário. Já para a tela de realizar login, possui o preenchimento dos dados de email e senha, que haverá a verificação para o login, e o botão para avançar.
+![tela Login](login.jpg) ![tela cadastro](cadastro.jpg)
 
 ### Interface 3 : Menu das frutas/verduras (Poliana)
 
@@ -38,7 +36,7 @@ GRUPO:
 ![temperatura](temperatura.jpg)
 
 ### Interface 6 : Umidade (Jonathan)
-#### Importante nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
+#### Nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
 ![umidade](umidade.jpg)
 
 ### Interface 7 : Ambiente (Jonathan)
