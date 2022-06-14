@@ -13,12 +13,12 @@ GRUPO:
 # Interfaces do Aplicativo (Protótipo)
 #### Esse trabalho consiste em apresentar capturas do prototipo das interfaces gráficas e suas respectivas descrições para assim informar sobre as funcionalidades e fluxos para o aplicativo que será desenvolvido e utilizado durante o desenvolvimento do Projeto Integrador.
 
-### Interface 1 : Tela Inicial 
+### Interface 1 : Tela Inicial (Fernanda)
 #### A Interface Inicial do aplicativo, possui uma logomarca (à definir), uma pequena descrição para informar o objetivo do aplicativo ao usuário, um botão para realizar o cadastro dos usuários para poderem assim utilizar o software e um botão para realizar o login quando o usuário ja tiver um cadastro feito.
 
 ![Tela inicial](telaInicial.jpg)
 
-### Interface 2: Login e Cadastro 
+### Interface 2: Login e Cadastro (Fernanda)
 #### As Próximas Interfaces são: Cadastro, em que os usuários poderão registrar seus dados, deixando-os armazenados para os próximos acessos os dados, que deverão ser preenchidos são Nome da Empresa ou nome do Responsável pela empresa, email para login e a senha de acesso do sistema, também possui a logomarca para identificação e o botão para confirmação do formulário. Já para a tela de realizar login, possui o preenchimento dos dados de email e senha, que haverá a verificação para o login, e o botão para avançar.
 ![tela Login](login.jpg) ![tela cadastro](cadastro.jpg)
 
@@ -26,7 +26,7 @@ GRUPO:
 
 ![Menu Frutas](menu.jpg)
 
-### Interface 4 : Menu de dados 
+### Interface 4 : Menu de dados (Fernanda)
 #### Após escolher a fruta ou verdura que será analisada pelo dispositivo, o usuário será direcionado para a interface contendo um Menu com todos os dados e fluxos que poderão ser apresentados, no caso, botões com seus respectivos caminhos, para analise de dados da temperatura, umidade, ventilação e também fluxos para ambiente adequado, condições no transporte e dicas para melhor conservação desses alimentos.
 
 ![menu dados](dados.jpg)
