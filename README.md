@@ -18,7 +18,7 @@ GRUPO:
 #### Esse trabalho consiste em apresentar capturas do prototipo das interfaces gráficas e suas respectivas descrições para assim informar sobre as funcionalidades e fluxos para o aplicativo que será desenvolvido e utilizado durante o desenvolvimento do Projeto Integrador.
 
 ### Interface 1 : Tela Inicial (Fernanda)
-#### A Interface Inicial do aplicativo, possui uma logomarca (à definir), uma pequena descrição para informar o objetivo do aplicativo ao usuário, um botão para realizar o cadastro dos usuários para poderem assim utilizar o software e um botão para realizar o login quando o usuário ja tiver um cadastro feito.
+#### A Interface Inicial do aplicativo, que será a primeira a ser exibida para os usuários, trazendo dados sobre o aplicativo e formas para se conectar e usar o aplicativo. Possui uma logomarca (à definir), uma pequena descrição para informar o objetivo do aplicativo ao usuário, um botão para realizar o cadastro dos usuários para poderem assim utilizar o software e um botão para realizar o login quando o usuário ja tiver um cadastro feito.
 
 ![Tela inicial](telaInicial.jpg)
 
