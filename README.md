@@ -37,7 +37,7 @@ GRUPO:
 
 ### Interface 5 : Temperatura (Jonathan)
 #### Logo após passar pela Tela do MENU de DADOS, e anteriormente escolhido o tipo de de fruta ou verdura para análise, e posteriormente definido a CATEGORIA DO INDICADOR DE MEDIDA DE CONDIÇÕES dos produtos, você chegará a esta tela acerca da TEMPERATURA, embora esteja explícito a informação dos dados exclusivamente da fruta MAÇÃ, você pode optar por escolher qualquer outro tipo de dado sobre uma outra fruta, ou hortaliça de seu interesse/necessidade.
-![temperatura](temperatura.jpg)
+![temperatura](temper.jpg)
 
 ### Interface 6 : Umidade (Jonathan)
 #### Nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
