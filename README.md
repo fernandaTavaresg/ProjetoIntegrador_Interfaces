@@ -1,4 +1,4 @@
-# Seminário de Orientação do Projeto Integrador
+## Seminário de Orientação do Projeto Integrador
 CURSO: TECNOLOGIA EM SISTEMAS PARA INTERNET
 
 TEMA: SISTEMA DE GERENCIAMENTO PARA FRUTAS E VERDURAS
@@ -10,7 +10,7 @@ GRUPO:
 
  JONATHAN LEONCIO DE SOUZA LIRA
  
-# Interfaces do Aplicativo (Protótipo)
+## Interfaces do Aplicativo (Protótipo)
 #### Esse trabalho consiste em apresentar capturas do prototipo das interfaces gráficas e suas respectivas descrições para assim informar sobre as funcionalidades e fluxos para o aplicativo que será desenvolvido e utilizado durante o desenvolvimento do Projeto Integrador.
 
 ### Interface 1 : Tela Inicial (Fernanda)
