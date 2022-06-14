@@ -32,7 +32,7 @@ GRUPO:
 ![menu dados](dados.jpg)
 
 ### Interface 5 : Temperatura (Jonathan)
-
+#### Logo após passar pela Tela do MENU de DADOS, e anteriormente escolhido o tipo de de fruta ou verdura para análise, e posteriormente definido a CATEGORIA DO INDICADOR DE MEDIDA DE CONDIÇÕES dos produtos, você chegará a esta tela acerca da TEMPERATURA, embora esteja explícito a informação dos dados exclusivamente da fruta MAÇÃ, você pode optar por escolher qualquer outro tipo de dado sobre uma outra fruta, ou hortaliça de seu interesse/necessidade.
 ![temperatura](temperatura.jpg)
 
 ### Interface 6 : Umidade (Jonathan)
