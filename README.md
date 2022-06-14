@@ -57,7 +57,7 @@ GRUPO:
 
 ### Referências
 #### Interfaces desenvolvidas no site Figma, acesso em: https://www.figma.com/file/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=0%3A1
-
+#### Visualização para Dispositivos móveis (celulares), mas também será responsivo para diversos dispositivos. Exemplo de visualização no dispositivo, acesso em: https://www.figma.com/proto/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=2%3A2&scaling=contain&page-id=0%3A1
 
 
 
