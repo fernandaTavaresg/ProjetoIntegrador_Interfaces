@@ -55,6 +55,9 @@ GRUPO:
 
 ![dicas](dicas.jpg)
 
+### Referências
+#### Interfaces desenvolvidas no site Figma, acesso em: https://www.figma.com/file/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=0%3A1
+
 
 
 
