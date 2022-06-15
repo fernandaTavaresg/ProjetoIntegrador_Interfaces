@@ -27,7 +27,7 @@ GRUPO:
 ![tela Login](login.jpg) ![tela cadastro](cadastro.jpg)
 
 ### Interface 3 : Menu das frutas/verduras (Poliana)
-
+#### Para o usuário selecionar as opções das frutas disponíveis é clicar no botão da imagem da fruta necessária ou hortaliça. Caso não tenha o botão da fruta ou hortaliça no menu, será pesquisado atras do botão "outras opções" no espaço ou o usuário colocará digitado a fruta ou hortaliça e clica no botão da lupa de pesquisar. Após clicar em fruta disponível no menu ou escrever a opção vai ser enviada para outra tela com a dica da fruta ou hortaliça.
 ![Menu Frutas](menu.jpg)
 
 ### Interface 4 : Menu de dados (Fernanda)
@@ -44,11 +44,11 @@ GRUPO:
 ![umidade](umidade.jpg)
 
 ### Interface 7 : Ambiente (Jonathan)
-
+#### Após passar pela Interface correspondente ao MENU de DADOS, nesta tela de direcionamento referente ao AMBIENTE é importante que O bom uso do frio por meio de uma Cadeia de Refrigeração bem ativado & Organizada uma grande importância na manutenção da qualidade das frutas e /ou hortaliças. Ao respirar como quaisquer plantas das plantas as frutas/horizonte continuando e transpirando como vivo. Aqui o Usuário/cliente terá a oportunidade de conferir tipos de locais mais adequados para o controle total dos produtos de seu interesse
 ![ambiente](ambient.jpg)
 
 ### Interface 8 : Transporte (Poliana)
-
+#### Nesta interface a imagem do transporte é apenas ilustrativa não serve como botão. No eclipse com fundo verde que demonstrará através de uma nova temperatura é um botão que irá mostrar a página que medirá a temperatura máxima, média e outro eclipse com imagem de mapa é um botão que analisaremos se será necessário uma interface ou será um link para páginas.
 ![transporte](transporte.jpg)
 
 ### Interface 9 : Dicas (Poliana)
