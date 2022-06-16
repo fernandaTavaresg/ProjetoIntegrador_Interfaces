@@ -52,7 +52,7 @@ GRUPO:
 ![transporte](transporte.jpg)
 
 ### Interface 9 : Dicas (Poliana)
-
+#### Esta interface é responsavel por apresentar informações (dicas) para a melhor conservação de cada fruta ou hortaliça. Após a escolha do tipo de fruta/verdura, no menu de dados acessando através do botão de dicas, terá interfaces parecidas com as apresentadas a seguir, cadastraremos também dicas que englobam todas os tipos para quando a fruta especifica não dispor de informações individuais. Para auxiliar os usuários na conservação e redução do desperdicio.
 ![dicas](dicas.jpg)
 
 ### Referências
